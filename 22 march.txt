@@ -1,0 +1,36 @@
+1)r1, r2, r3, r4.....   independent each other  (random walk)
+
+2) if r1, r2, r3....  they are following normal distribuyion  N(mean, var)
+
+A, B are 2 Random variable  N(mean, var)
+A+B normal distri N(2* mean, 2*var)
+
+A N(a1, a2)
+B N(b1, b2)
+
+A+b N(a1+b1, var)
+var = a2+ b2+ 2*cov(A,B)
+
+
+log(1+Rt) = r1+r2+.....   RW
+1+Rt = exp(r1+r2+...)     RW
+
+
+
+
+St = S0 + Z1+Z2......     Z  N (mean, var)                     E(x) = mean  E(X-mean)^2
+
+E(St|S0)=  S0 + mean*t
+Var(St|S0) = 0 + t*var
+
+St N(S0+mean*t, t*var)
+
+var = 100
+sd = 10
+
+variance  = var*t 
+sd = sqrt(var)srqt(t)
+
+as we move from discrest to continous delta(t2-t1) tends to zero lim Det(t)
+
+log(1+x) x
