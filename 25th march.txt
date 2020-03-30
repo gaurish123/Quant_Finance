@@ -1,0 +1,40 @@
+zero coupon bond no coupon
+
+they pay you (par value = principle value) = 100$
+their market value () is less than par value  = 95$
+
+par value = principle value  != market value
+
+annaul compounding                (1+r)^t
+semi annual compoundiong    (1+r/2)^2*t
+continous compounding      exp(r*t)  r  =interest rate and t is time period in years
+
+case 1) holding bond till maturity - 6% at the end
+case 2) you are selling the bond in between - then bond price will increasde or decrwease based on interest rate at that time 
+
+
+1, r, r^2, r^3.......
+
+2,4,8,16,32.....  2, 2^2, 2^3.....n terms 
+
+ sum of n terms =   1* (1-r^(n+1))/ (1-r)
+
+1 year maturity r1 = 4%, r2 = 5%, coupon = 5 , par value = 100
+
+
+PV1 = 5/(1.02) + 5/(1.025) + 100/(1.025)
+
+PV2 = 5/(1+r) + 5/(1+r^2) + 100/(1+r)^2
+
+PV1 = PV2
+
+r(yield to maturity) is the single value at which if you discount the bond then its present value will be same as market value
+
+current yield = (40/1200)*2
+
+zero coupon bond
+coupon bearing bond
+t = 6 month 1 coupon = one zero coupon bond(r1)               ZERO RATES
+t=12 month  1 coupon = another zero coupn bond.........|(r2)
+
+-----------------------
