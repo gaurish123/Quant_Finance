@@ -1,0 +1,59 @@
+Stationarity of a time series
+
+1) mean should not change with time
+2) varince should not change with time
+3) covariance should be function of lag only.
+
+Y(t) and Y(t-1)  =cor1
+
+Y(t-5) and Y(t-6)  = cor2
+
+
+
+
+
+
+-1<cor<1
+
+pearson correlation
+
+Y1, Y2, Y3, Y4.........    Y(t)  time series
+
+10,21,12,21,34,34 coming from normal
+
+null hypothesis - N(mean, varince)
+
+10 mean,0.4 var  - normal curve
+
+
+
+
+
+sum of normal distribution is also normal distribution
+
+supprt vectror machine SVM  -kernel density function
+
+
+Percentile, Quentile
+
+
+1.2.3.4......100 
+    
+Fn(25)  25th percentile
+
+
+how to calculate percentile from normal distribution
+
+
+F(x) = P(X<=x) = Sum(P(X = xi))  where 1=1,2,3....x
+
+cumulative density function
+
+P(X<=12) = 25th percentile
+
+
+----------1 session morning 7 am to 9
+
+
+
+

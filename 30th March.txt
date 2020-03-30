@@ -1,0 +1,29 @@
+t distribution - 2 parameter needs to input , n, degree of freedom
+
+
+normal distribution - DOF are infinity
+t distributon - degree of freedom are less than infinity
+
+skewness - https://en.wikipedia.org/wiki/Skewness#/media/File:Negative_and_positive_skew_diagrams_(English).svg
+concave means right skewed
+convex means left skewed
+
+if a distribution is looking concave at one side and convex at other side means that distribution has heavy tails
+
+
+
+
+for a right skewed graph 25th percentile will be lesser as compare to normal but 75th percentile will be greater, concave in nature
+
+for a left skewed graph 25th percentile will be greater as compare to normal but 75th percentile will be lesser, convex in nature
+
+
+
+
+
+
+
+Central Limit Theorum -  as sample size increases, mean of a sample distribution follows normal distribution  (2 conditions) - sample must be independent to each other, sample must be identically distributed - IID
+Law of large number = sample mean converges to population mean as sample size increases
+
+both left and right outlier are extreame for sp return than dm/dollar rate
