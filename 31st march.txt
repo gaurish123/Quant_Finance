@@ -1,0 +1,54 @@
+Hypothesis testing
+
+Null - by default this is true
+Alternate  - if we refute null hypothesis
+
+
+Normal distribution 
+statement - whether given sample is coming from normal distribution
+
+Null (Ho) - yes, it is coming from normal
+Alternate (H1)- no it is not coming from normal
+
+p value - probability of getting sample such extreme as this one, assuming null hypothesis is true
+
+
+
+if p value < 0.05 - null is rejected
+if p value >= 0.05 - null is not rejected
+
+
+p value - what is the probability of getting such data just by chance?
+
+heigher kurtosis means lesser sd
+
+Normality tests
+1)shapiro wilson
+2)
+
+
+
+
+--normal-normal plot or q-q plot  - checks if distribution is normal, skewness
+--Boxplot  - whether there are outliers in the data
+
+
+(x - min(x))/ (max(x) - min(x))
+
+
+Box - Cox Tranformation
+
+y is original data point
+hen y^(alpha)
+even after transformation series should be increasing in nature
+
+1,2,3,4,5.....
+
+1,1,1,1,......
+
+y^(alpha)
+
+
+100,101,102,.......999, 1000   
+log, base 10
+2,2.1,........2.99, 3
